@@ -1,0 +1,80 @@
+DEBUG   2021-12-31 12:14:02,539 [main] Hooks.class  - Opening driver
+INFO    2021-12-31 12:14:08,628 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-31 12:14:14,051 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-31 12:14:14,065 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:14:14,192 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:14:14,307 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-31 12:14:14,308 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-31 12:14:14,308 [main] HomePage.java  - Waiting for flight button
+DEBUG   2021-12-31 12:14:14,901 [main] HomePage.java  - Clicking on flight button
+DEBUG   2021-12-31 12:14:15,233 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:14:15,236 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:14:15,329 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-31 12:14:15,577 [main] Hooks.class  - Opening driver
+INFO    2021-12-31 12:14:17,278 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-31 12:14:24,108 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-31 12:14:24,113 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:14:24,119 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:14:24,155 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-31 12:14:24,156 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-31 12:14:24,156 [main] HomePage.java  - Waiting for flight button
+DEBUG   2021-12-31 12:14:24,398 [main] HomePage.java  - Clicking on flight button
+DEBUG   2021-12-31 12:14:24,956 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:14:24,958 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:14:24,997 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-31 12:14:25,192 [main] Hooks.class  - Opening driver
+INFO    2021-12-31 12:14:26,700 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-31 12:14:32,874 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-31 12:14:32,877 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:14:32,883 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:14:33,124 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-31 12:14:33,128 [main] LoginStepDefinition.class  - Clicking on login
+ERROR   2021-12-31 12:14:43,327 [main] LoginStepDefinition.class  - com.mindtree.exceptions.WebDriverHelperException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //span[@id='loginModal'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TO73PJJS', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\KSAILE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 965700834f3a47d74905ec2a51a659b0
+DEBUG   2021-12-31 12:14:43,374 [main] LoginStepDefinition.class  - Entering username
+DEBUG   2021-12-31 12:14:43,379 [main] LoginPage.java  - Sending username
+INFO    2021-12-31 12:14:43,425 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-31 12:57:01,961 [main] Hooks.class  - Opening driver
+INFO    2021-12-31 12:57:04,522 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-31 12:57:11,164 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-31 12:57:11,173 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:57:11,181 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:57:11,194 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-31 12:57:11,195 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-31 12:57:11,196 [main] HomePage.java  - Waiting for flight button
+DEBUG   2021-12-31 12:57:11,728 [main] HomePage.java  - Clicking on flight button
+DEBUG   2021-12-31 12:57:12,193 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:57:12,196 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:57:12,280 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-31 12:57:16,560 [main] Hooks.class  - Opening driver
+INFO    2021-12-31 12:57:18,015 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-31 12:57:24,404 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-31 12:57:24,410 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:57:24,418 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:57:24,461 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-31 12:57:24,461 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-31 12:57:24,461 [main] HomePage.java  - Waiting for flight button
+DEBUG   2021-12-31 12:57:24,712 [main] HomePage.java  - Clicking on flight button
+DEBUG   2021-12-31 12:57:25,146 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:57:25,152 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:57:25,358 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-31 12:57:29,628 [main] Hooks.class  - Opening driver
+INFO    2021-12-31 12:57:31,115 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-31 12:57:39,397 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-31 12:57:39,400 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-31 12:57:39,409 [main] HomePage.java  - Verifying title
+INFO    2021-12-31 12:57:39,442 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-31 12:57:39,449 [main] LoginStepDefinition.class  - Clicking on login
+ERROR   2021-12-31 12:57:49,540 [main] LoginStepDefinition.class  - com.mindtree.exceptions.WebDriverHelperException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //span[@id='loginModal'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TO73PJJS', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\KSAILE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d00e830018d7e9a5b7013e056052e50
+DEBUG   2021-12-31 12:57:49,543 [main] LoginStepDefinition.class  - Entering username
+DEBUG   2021-12-31 12:57:49,550 [main] LoginPage.java  - Sending username
+INFO    2021-12-31 12:57:49,592 [main] Hooks.class  - Driver closed

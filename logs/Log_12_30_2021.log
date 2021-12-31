@@ -1,0 +1,150 @@
+DEBUG   2021-12-30 13:16:27,383 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:16:27,628 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:16:27,663 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:16:27,778 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:16:27,818 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:16:27,870 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:25:27,517 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:25:35,915 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 13:25:42,687 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 13:25:43,334 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:25:47,681 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:25:49,860 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 13:25:56,956 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 13:25:56,997 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:25:57,780 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:25:59,556 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 13:26:06,408 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 13:26:06,419 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:27:03,925 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:27:07,224 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 13:27:14,137 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 13:27:14,932 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:27:15,465 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:27:16,947 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 13:27:23,421 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 13:27:23,455 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 13:27:23,996 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 13:27:25,425 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 13:27:32,018 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 13:27:32,041 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 14:33:05,095 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 14:33:07,909 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 14:33:20,132 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 14:33:21,164 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 14:33:21,734 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 14:33:23,295 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 14:33:30,751 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 14:33:30,776 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 14:33:31,165 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 14:33:32,664 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 14:33:39,862 [main] Hooks.class  - Opening URL
+INFO    2021-12-30 14:33:39,877 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 14:58:24,596 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 14:58:27,429 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 14:58:34,595 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 14:58:34,613 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 14:58:34,623 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 14:58:34,680 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 14:58:35,431 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 14:58:37,118 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 14:58:44,265 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 14:58:44,268 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 14:58:44,275 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 14:58:44,313 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 14:58:48,638 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 14:58:50,354 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 14:58:57,441 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 14:58:57,444 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 14:58:57,449 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 14:58:57,478 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 15:01:31,543 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 15:01:34,414 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 15:01:43,689 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 15:01:43,705 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:01:43,714 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:01:43,751 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-30 15:01:43,754 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-30 15:01:43,755 [main] HomePage.java  - Waiting for flight button
+ERROR   2021-12-30 15:01:53,867 [main] HomeStepDefinition.class  - com.mindtree.exceptions.WebDriverHelperException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //button[@class='product-tile-button flight selected'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TO73PJJS', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\KSAILE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51728}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9dcaf0eb75c29ea741c37d3cce2b5a0
+DEBUG   2021-12-30 15:01:53,867 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:01:53,870 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:01:53,886 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 15:01:58,292 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 15:02:00,926 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 15:02:07,226 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 15:02:07,231 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:02:07,236 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:02:07,775 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-30 15:02:07,776 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-30 15:02:07,776 [main] HomePage.java  - Waiting for flight button
+ERROR   2021-12-30 15:02:17,809 [main] HomeStepDefinition.class  - com.mindtree.exceptions.WebDriverHelperException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //button[@class='product-tile-button flight selected'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TO73PJJS', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\KSAILE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51786}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 408a5fafae424dd14d778b634601a7d0
+DEBUG   2021-12-30 15:02:17,810 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:02:17,813 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:02:17,820 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 15:02:22,090 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 15:02:24,206 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 15:02:31,154 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 15:02:31,157 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:02:31,165 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:02:31,194 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-30 15:02:31,198 [main] LoginStepDefinition.class  - Clicking on login
+ERROR   2021-12-30 15:02:41,314 [main] LoginStepDefinition.class  - com.mindtree.exceptions.WebDriverHelperException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //span[@id='loginModal'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TO73PJJS', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\KSAILE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51847}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0da84fc8afcc81dfdfe794a9819225a1
+DEBUG   2021-12-30 15:02:41,318 [main] LoginStepDefinition.class  - Entering username
+DEBUG   2021-12-30 15:02:41,323 [main] LoginPage.java  - Sending username
+INFO    2021-12-30 15:02:41,354 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 15:05:21,773 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 15:05:25,065 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 15:05:32,784 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 15:05:32,792 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:05:32,799 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:05:32,825 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-30 15:05:32,827 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-30 15:05:32,827 [main] HomePage.java  - Waiting for flight button
+DEBUG   2021-12-30 15:05:32,990 [main] HomePage.java  - Clicking on flight button
+DEBUG   2021-12-30 15:05:33,371 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:05:33,375 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:05:33,398 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 15:05:37,702 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 15:05:39,561 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 15:05:46,114 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 15:05:46,120 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:05:46,127 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:05:46,249 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-30 15:05:46,249 [main] HomeStepDefinition.class  - Clicking on flights button
+DEBUG   2021-12-30 15:05:46,249 [main] HomePage.java  - Waiting for flight button
+DEBUG   2021-12-30 15:05:46,648 [main] HomePage.java  - Clicking on flight button
+DEBUG   2021-12-30 15:05:47,246 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:05:47,249 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:05:47,257 [main] Hooks.class  - Driver closed
+DEBUG   2021-12-30 15:05:51,594 [main] Hooks.class  - Opening driver
+INFO    2021-12-30 15:05:53,186 [main] Hooks.class  - Driver opened
+DEBUG   2021-12-30 15:05:59,558 [main] Hooks.class  - Opening URL
+DEBUG   2021-12-30 15:05:59,561 [main] HomeStepDefinition.class  - Verifying title
+DEBUG   2021-12-30 15:05:59,566 [main] HomePage.java  - Verifying title
+INFO    2021-12-30 15:05:59,592 [main] HomeStepDefinition.class  - Title verified
+DEBUG   2021-12-30 15:05:59,596 [main] LoginStepDefinition.class  - Clicking on login
+ERROR   2021-12-30 15:06:09,837 [main] LoginStepDefinition.class  - com.mindtree.exceptions.WebDriverHelperException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.xpath: //span[@id='loginModal'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-TO73PJJS', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\KSAILE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52081}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b94c8970d28a7b6566480765a4823667
+DEBUG   2021-12-30 15:06:09,840 [main] LoginStepDefinition.class  - Entering username
+DEBUG   2021-12-30 15:06:09,847 [main] LoginPage.java  - Sending username
+INFO    2021-12-30 15:06:09,880 [main] Hooks.class  - Driver closed
